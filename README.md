@@ -3,4 +3,4 @@ Data Science and machine learning (ML) can be very helpful in the prediction of 
 
 ## Glitch Output: [Heart Attack Prediction](https://heart-attack-prediction.glitch.me/)
 
-![Uploading WhatsApp Image 2023-05-15 at 14.44.20.jpg…]()
+
